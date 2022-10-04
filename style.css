@@ -1,0 +1,10 @@
+h1{
+    color: rgba(20, 201, 65, 0.528) !important;
+    font-size: 20px;
+}
+body{
+    background-color: #00ffff;
+}
+.bg-green{
+    background-color: green;
+}
