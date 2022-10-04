@@ -8,3 +8,13 @@ body{
 .bg-green{
     background-color: green;
 }
+.font-50{
+    font-size:50px;
+}
+.font-50:hover{
+    font-size: 100px;
+    background-color: black;
+}
+body:have{
+    background-color: aliceblue;
+}
